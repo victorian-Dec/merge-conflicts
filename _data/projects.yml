@@ -11,6 +11,13 @@
 # GitHub Classroom
 - project: GitHub Classroom
   role: Contributor
-  duration: 2015 &mdash; Present
+  duration: 2015 &mdash; June 2019
+  url: "https://github.com/education/classroom"
+  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+  # Translate Bot
+- project: Translate Classroom
+  role: Contributor
+  duration: 2019 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
